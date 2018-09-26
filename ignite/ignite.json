@@ -1,6 +1,5 @@
 {
   "createdWith": "2.1.2",
-  "examples": "classic",
   "navigation": "react-navigation",
   "askToOverwrite": true,
   "generators": {
@@ -11,5 +10,6 @@
     "redux": "ignite-ir-boilerplate-andross",
     "saga": "ignite-ir-boilerplate-andross",
     "screen": "ignite-ir-boilerplate-andross"
-  }
+  },
+  "examples": "classic"
 }
